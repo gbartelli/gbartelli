@@ -10,7 +10,7 @@
   <a href="https://www.typescriptlang.org" target="_blank"><img align="center" alt="gbartelli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.typescriptlang.org" target="_blank"><img align="center" alt="gbartelli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
   <a href="https://tailwindcss.com" target="_blank"><img align="center" alt="gbartelli-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
-  <a href="https://tailwindcss.com" target="_blank"><img align="center" alt="gbartelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" /></a>
+  <a href="https://python.org" target="_blank"><img align="center" alt="gbartelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" /></a>
 
 
 </div>
